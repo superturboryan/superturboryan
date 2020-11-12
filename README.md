@@ -2,12 +2,12 @@
 
 ## I'm a full stack developer working with native iOS and modern web technologies. 
 
-🧑‍💻  I like to work with:  
+#### 🧑‍💻  - I like to work with:  
 
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 
 
-☎️ How to reach me:  
+#### ☎️ - How to reach me:  
 
 [<img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:forsyth.r@gmail.com)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ryan-david-forsyth/)  [<img alt="Apple App Store" src="https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge" />](https://apps.apple.com/ie/developer/ryan-forsyth/id1486027180)
 
