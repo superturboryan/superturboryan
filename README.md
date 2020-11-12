@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there, I'm Ryan 🤙  
+
+## I'm a Full stack Developer working with Native iOS and modern web technologies. 
+
+📫 How to reach me:  
+
+[<img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:forsyth.r@gmail.com)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ryan-david-forsyth/)  [<img alt="Apple App Store" src="https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge" />](https://apps.apple.com/ie/developer/ryan-forsyth/id1486027180)
+
+	
+
 
 <!--
 **superturboryan/superturboryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
