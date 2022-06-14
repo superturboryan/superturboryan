@@ -1,6 +1,6 @@
 ### Hello there, I'm Ryan 🤙  
 
-## I'm a full stack developer working with native iOS and modern web technologies 
+## I'm a developer working with native iOS and modern web technologies 
 
 ### 🔧 &nbsp; I like to work with:  
 
