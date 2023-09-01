@@ -1,6 +1,6 @@
 ### Hello there, I'm Ryan 🤙  
 
-### 🔧 &nbsp; I like to work with:  
+### 🔧 &nbsp; I like to use:  
 
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" /> <img alt="Objective-C" src="https://i.imgur.com/uFSl8bK.png" height=28/> <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> 
 ### ☎️ &nbsp; How to reach me: 
