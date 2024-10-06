@@ -2,7 +2,7 @@
 
 ### 🧑‍🔬 &nbsp; I love to experiment with
 
-Connected devices/IoT, cybersecurity, physical penetration testing, urbex, skateboarding, DJing, Kotlin Multiplatform, and long distance cycling + triathlon
+Connected devices/IoT, cybersecurity, physical penetration testing, urbex, skateboarding, DJing, Kotlin Multiplatform, long distance cycling 🚴
 
 ### 🔧 &nbsp; I __like__ to use
 
