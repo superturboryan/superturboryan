@@ -4,7 +4,7 @@
 
 Connected devices/IoT, cybersecurity, physical penetration testing, urbex, skateboarding, DJing, Kotlin Multiplatform, long distance cycling 🚴
 
-### 🔧 &nbsp; I __like__ to use
+### 🔧 &nbsp; I _like_ to use
 
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" /> <img alt="Objective-C" src="https://i.imgur.com/uFSl8bK.png" height=28/>
 
