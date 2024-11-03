@@ -1,12 +1,8 @@
 ## Welcome, I'm Ryan 🤙  
 
-### 🧑‍🔬 &nbsp; I love to experiment with
+### 🧑‍🔬 &nbsp; I like to experiment with 🔧
 
-Connected devices/IoT, cybersecurity, physical penetration testing, urbex, skateboarding, DJing, Kotlin Multiplatform, long distance cycling 🚴
-
-### 🔧 &nbsp; I _like_ to use
-
-<img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" /> <img alt="Objective-C" src="https://i.imgur.com/uFSl8bK.png" height=28/>
+Connected devices/IoT, cybersecurity, physical penetration testing, skateboarding, DJing, Kotlin Multiplatform, long distance cycling 🚴
 
 ### 💌 &nbsp; How to reach me 
 
