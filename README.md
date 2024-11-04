@@ -1,16 +1,18 @@
-## Welcome, I'm Ryan 🤙  
+## Welcome! I'm Ryan &nbsp;<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-### 🧑‍🔬 &nbsp; I like to experiment with 🔧
+### 🧑‍🔬 &nbsp; I like to experiment with
 
 Connected devices/IoT, cybersecurity, physical penetration testing, skateboarding, DJing, Kotlin Multiplatform, long distance cycling 🚴
+
+### 📲 &nbsp; App Store
+
+[<img alt="WatchCloud" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/b3/8f/fcb38fc0-fbae-8f7a-0b70-9f1bfbbd719f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.webp" width=60/>](https://apps.apple.com/us/app/watchcloud/id6466678799) 
 
 ### 💌 &nbsp; How to reach me 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ryan-david-forsyth/) 
 
-<a href="https://www.producthunt.com/posts/watchcloud?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-watchcloud" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=464143&theme=light" alt="WatchCloud - Listen&#0032;to&#0032;SoundCloud&#0032;on&#0032;your&#0032;Apple&#0032;Watch | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-### 👀  &nbsp; Check out my projects below 👇	
+### 👇 &nbsp; Check out my projects
 
 <!-- 👇 DO NOT DELETE 👇 -->
 
