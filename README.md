@@ -1,18 +1,18 @@
 ## Welcome! I'm Ryan &nbsp;<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-### 🧑‍🔬 &nbsp; I like to experiment with
+### I like to experiment with &nbsp;🧑‍🔬
 
-Connected devices/IoT, cybersecurity, physical penetration testing, skateboarding, DJing, Kotlin Multiplatform, long distance cycling 🚴
+Connected devices, cybersecurity, physical penetration testing, skateboarding, DJing, cycling 🚴
 
-### 📲 &nbsp; App Store
+### App Store &nbsp;📲
 
 [<img alt="WatchCloud" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/b3/8f/fcb38fc0-fbae-8f7a-0b70-9f1bfbbd719f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.webp" width=60/>](https://apps.apple.com/us/app/watchcloud/id6466678799) 
 
-### 💌 &nbsp; How to reach me 
+###  How to reach me &nbsp;💌
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ryan-david-forsyth/) 
 
-### 👇 &nbsp; Check out my projects
+### Check out my projects &nbsp;👇
 
 <!-- 👇 DO NOT DELETE 👇 -->
 
