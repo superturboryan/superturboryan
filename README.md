@@ -1,8 +1,15 @@
+<!-- Ryan David Forsyth - https://www.linkedin.com/in/ryan-david-forsyth/ -->
+
 ## Welcome! I'm Ryan &nbsp;<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 ### I like to experiment with &nbsp;🧑‍🔬
 
-Connected devices, cybersecurity, physical penetration testing, skateboarding, DJing, cycling 🚴
+- Connected devices 👷
+- Cybersecurity 👮
+- Physical penetration testing 🥸
+- Skateboarding 🛹
+- Cycling 🚴
+- Linguistics + emojis 🧑‍🎓
 
 ### App Store &nbsp;📲
 
