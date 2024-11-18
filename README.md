@@ -14,7 +14,10 @@
 
 ### App Store &nbsp;📲
 
+
 [<img alt="WatchCloud" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/b3/8f/fcb38fc0-fbae-8f7a-0b70-9f1bfbbd719f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.webp" width=60/>](https://apps.apple.com/us/app/watchcloud/id6466678799) 
+[<img alt="Magic Tapper" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/70/82/3e7082e6-e860-5ac3-95e9-d1e92b8b6fea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.webp" width=60/>](https://apps.apple.com/us/app/magic-tapper/id6738328808)  
+
 
 ### Check out my projects &nbsp;👇
 
