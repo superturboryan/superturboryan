@@ -6,7 +6,6 @@
 
 - Connected devices 👷
 - Cybersecurity 👮
-- Physical penetration testing 🥸
 - UI-UX 🧑‍🎨
 - Skateboarding 🛹
 - Cycling 🚴
