@@ -27,7 +27,7 @@
 ## Presentations &nbsp;🎤
 
 <a href="https://www.youtube.com/watch?v=lslot4B_4y0">
-  <img src="https://github.com/user-attachments/assets/278785a3-fe2e-494f-a7ee-cf47dbddc78f" width=600 />
+  <img src="https://github.com/user-attachments/assets/278785a3-fe2e-494f-a7ee-cf47dbddc78f" width=350 />
 </a>
 
 ### Check out my projects &nbsp;👇
