@@ -30,7 +30,7 @@
   <img src="https://github.com/user-attachments/assets/278785a3-fe2e-494f-a7ee-cf47dbddc78f" width=350 />
 </a>
 
-### Check out my projects &nbsp;👇
+### Got an app idea you want to discuss? <a href="mailto://forsyth.r@gmail.com">Reach out</a>&nbsp;💌
 
 <!-- 👇 DO NOT DELETE 👇 -->
 
