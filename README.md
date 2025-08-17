@@ -5,7 +5,7 @@
 ### I like to experiment with &nbsp;🧑‍🔬
 
 - Connected devices 👷
-- Cybersecurity 👮
+- Security 👮
 - UI-UX 🧑‍🎨
 - Skateboarding 🛹
 - Cycling 🚴
