@@ -19,13 +19,14 @@
 [<img alt="Magic Tapper" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/70/82/3e7082e6-e860-5ac3-95e9-d1e92b8b6fea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x0w.webp" width=60/>](https://apps.apple.com/us/app/magic-tapper/id6738328808)
 
 ## Swift Packages 📦
-- **[Consolable](https://swiftpackageindex.com/superturboryan/Consolable)**
 - **[ControlKit](https://swiftpackageindex.com/superturboryan/ControlKit)**
+- **[Consolable](https://swiftpackageindex.com/superturboryan/Consolable)**
 - **[SoundCloud](https://swiftpackageindex.com/superturboryan/SoundCloud-Swift)**
 - **[XinChao](https://swiftpackageindex.com/superturboryan/XinChao)**
 
 ## Presentations &nbsp;🎤
 
+- **[Making Connections: Practical Core Bluetooth](https://www.youtube.com/watch?v=lslot4B_4y0)**
 <a href="https://www.youtube.com/watch?v=lslot4B_4y0">
   <img src="https://github.com/user-attachments/assets/278785a3-fe2e-494f-a7ee-cf47dbddc78f" width=350 />
 </a>
