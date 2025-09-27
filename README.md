@@ -26,7 +26,7 @@
 
 ## Presentations &nbsp;🎤
 
-- **[Making Connections: Practical Core Bluetooth](https://www.youtube.com/watch?v=lslot4B_4y0)**
+- [**Making Connections: Practical Core Bluetooth**](https://www.youtube.com/watch?v=lslot4B_4y0) - January 2024, iOS Conf SG 🇸🇬
 <a href="https://www.youtube.com/watch?v=lslot4B_4y0">
   <img src="https://github.com/user-attachments/assets/278785a3-fe2e-494f-a7ee-cf47dbddc78f" width=350 />
 </a>
