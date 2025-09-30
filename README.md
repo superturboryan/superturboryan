@@ -11,7 +11,7 @@
 - Cycling 🚴
 - Linguistics + emojis 🧑‍🎓
 
-## App Store &nbsp;📲
+## [App Store](https://apps.apple.com/us/developer/ryan-forsyth/id1486027180) &nbsp;📲
 
 [<img alt="LocationLock" src="https://github.com/user-attachments/assets/429abae3-0a0d-4053-897d-187bf635c75a" width=80/>](https://apps.apple.com/us/app/locationlock-detect-protect/id6748995958?platform=iphone)
 &nbsp;&nbsp;
