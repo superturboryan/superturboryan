@@ -14,11 +14,11 @@
 ## App Store &nbsp;📲
 
 [<img alt="LocationLock" src="https://github.com/user-attachments/assets/429abae3-0a0d-4053-897d-187bf635c75a" width=80/>](https://apps.apple.com/us/app/locationlock-detect-protect/id6748995958?platform=iphone)
-&nbsp;
+&nbsp;&nbsp;
 [<img alt="Bike Connect" src="https://github.com/user-attachments/assets/da1b50d1-c896-4b7f-a961-bc3b606bfb5e" width=80/>](https://apps.apple.com/us/app/bike-connect-ride-smarter/id6746517051)
-&nbsp;
+&nbsp;&nbsp;
 [<img alt="WatchCloud" src="https://github.com/user-attachments/assets/da568c0d-44cd-4c75-a65c-5a01104437ee" width=80/>](https://apps.apple.com/us/app/watchcloud/id6466678799) 
-&nbsp;
+&nbsp;&nbsp;
 [<img alt="Magic Tapper" src="https://github.com/user-attachments/assets/a52ee1ab-6123-41ed-b646-0cda6de6f256" width=80/>](https://apps.apple.com/us/app/magic-tapper/id6738328808)
 
 [<img alt="Schedule-A-Click" src="https://github.com/user-attachments/assets/6b014abf-1b86-4365-95c3-06661d49eef0" width=80/>](https://apps.apple.com/us/app/schedule-a-click/id6747453453) 
