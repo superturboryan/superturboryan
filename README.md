@@ -20,8 +20,8 @@
 [<img alt="WatchCloud" src="https://github.com/user-attachments/assets/da568c0d-44cd-4c75-a65c-5a01104437ee" width=80/>](https://apps.apple.com/us/app/watchcloud/id6466678799) 
 &nbsp;
 [<img alt="Magic Tapper" src="https://github.com/user-attachments/assets/a52ee1ab-6123-41ed-b646-0cda6de6f256" width=80/>](https://apps.apple.com/us/app/magic-tapper/id6738328808)
-&nbsp;
-[<img alt="Schedule-A-Click" src="https://github.com/user-attachments/assets/65fdbdb4-52f1-4877-8458-fd2908717488" width=80/>](https://apps.apple.com/us/app/schedule-a-click/id6747453453) 
+
+[<img alt="Schedule-A-Click" src="https://github.com/user-attachments/assets/6b014abf-1b86-4365-95c3-06661d49eef0" width=80/>](https://apps.apple.com/us/app/schedule-a-click/id6747453453) 
 
 ## Swift Packages 📦
 - **[ControlKit](https://swiftpackageindex.com/superturboryan/ControlKit)**
