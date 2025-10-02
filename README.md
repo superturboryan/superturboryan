@@ -27,7 +27,6 @@
 - **[ControlKit](https://swiftpackageindex.com/superturboryan/ControlKit)**
 - **[Consolable](https://swiftpackageindex.com/superturboryan/Consolable)**
 - **[SoundCloud](https://swiftpackageindex.com/superturboryan/SoundCloud-Swift)**
-- **[XinChao](https://swiftpackageindex.com/superturboryan/XinChao)**
 
 ## Presentations &nbsp;🎤
 
