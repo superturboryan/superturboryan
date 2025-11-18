@@ -34,8 +34,7 @@
   <img src="https://github.com/user-attachments/assets/278785a3-fe2e-494f-a7ee-cf47dbddc78f" width=350 />
 </a>
 
-## Reach out 🤙
-### <a href="mailto:hello@ryanforsyth.dev">hello@ryanforsyth.dev</a>&nbsp;💌
+### [Reach out](mailto:forsyth.r@gmail.com) to discuss your app ideas 🤙
  
 <!-- 👇 DO NOT DELETE 👇 -->
 
