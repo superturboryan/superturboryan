@@ -2,13 +2,12 @@
 
 ## Welcome! I'm Ryan &nbsp;<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-### I like to experiment with &nbsp;🧑‍🔬
+### I like to experiment with
 
-- Connected devices 👷
-- Security 👮
+- Connected devices 🧑‍🔬
 - UI-UX 🧑‍🎨
-- Skateboarding 🛹
 - Cycling 🚴
+- Skateboarding 🛹
 - Linguistics + emojis 🧑‍🎓
 
 ## [App Store](https://apps.apple.com/us/developer/ryan-forsyth/id1486027180) &nbsp;📲
@@ -20,7 +19,7 @@
 [<img alt="WatchCloud" src="https://github.com/user-attachments/assets/da568c0d-44cd-4c75-a65c-5a01104437ee" width=80/>](https://apps.apple.com/us/app/watchcloud/id6466678799) 
 &nbsp;&nbsp;
 [<img alt="Magic Tapper" src="https://github.com/user-attachments/assets/a52ee1ab-6123-41ed-b646-0cda6de6f256" width=80/>](https://apps.apple.com/us/app/magic-tapper/id6738328808)
-
+&nbsp;&nbsp;
 [<img alt="Schedule-A-Click" src="https://github.com/user-attachments/assets/6b014abf-1b86-4365-95c3-06661d49eef0" width=80/>](https://apps.apple.com/us/app/schedule-a-click/id6747453453) 
 
 ## Swift Packages 📦
@@ -35,8 +34,9 @@
   <img src="https://github.com/user-attachments/assets/278785a3-fe2e-494f-a7ee-cf47dbddc78f" width=350 />
 </a>
 
-### Got an app idea you want to discuss? <a href="mailto:forsyth.r@gmail.com">Reach out</a>&nbsp;💌
-
+## Reach out 🤙
+### <a href="mailto:hello@ryanforsyth.dev">hello@ryanforsyth.dev</a>&nbsp;💌
+ 
 <!-- 👇 DO NOT DELETE 👇 -->
 
 <!--
