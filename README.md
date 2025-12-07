@@ -2,13 +2,7 @@
 
 ## Welcome! I'm Ryan &nbsp;<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-### I like to experiment with
-
-- Connected devices 🧑‍🔬
-- UI-UX 🧑‍🎨
-- Cycling 🚴
-- Skateboarding 🛹
-- Linguistics + emojis 🧑‍🎓
+### I like to experiment with iOS/macOS/watchOS apps, Bluetooth/connected devices, UI-UX, cycling, and emojis 🧑‍🔬
 
 ## [App Store](https://apps.apple.com/us/developer/ryan-forsyth/id1486027180) &nbsp;📲
 
@@ -23,16 +17,11 @@
 [<img alt="Schedule-A-Click" src="https://github.com/user-attachments/assets/6b014abf-1b86-4365-95c3-06661d49eef0" width=80/>](https://apps.apple.com/us/app/schedule-a-click/id6747453453) 
 
 ## Swift Packages 📦
-- **[ControlKit](https://swiftpackageindex.com/superturboryan/ControlKit)**
-- **[Consolable](https://swiftpackageindex.com/superturboryan/Consolable)**
-- **[SoundCloud](https://swiftpackageindex.com/superturboryan/SoundCloud-Swift)**
+**[ControlKit](https://swiftpackageindex.com/superturboryan/ControlKit)** • **[Consolable](https://swiftpackageindex.com/superturboryan/Consolable)** • **[SoundCloud](https://swiftpackageindex.com/superturboryan/SoundCloud-Swift)**
 
 ## Presentations &nbsp;🎤
 
 - [**Making Connections: Practical Core Bluetooth**](https://www.youtube.com/watch?v=lslot4B_4y0) - January 2025, iOS Conf SG 🇸🇬
-<a href="https://www.youtube.com/watch?v=lslot4B_4y0">
-  <img src="https://github.com/user-attachments/assets/278785a3-fe2e-494f-a7ee-cf47dbddc78f" width=350 />
-</a>
 
 ### [Reach out](mailto:forsyth.r@gmail.com) to discuss your app ideas 🤙
  
