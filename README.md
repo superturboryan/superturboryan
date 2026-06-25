@@ -17,7 +17,7 @@
 [<img alt="Schedule-A-Click" src="https://github.com/user-attachments/assets/6b014abf-1b86-4365-95c3-06661d49eef0" width=80/>](https://apps.apple.com/us/app/schedule-a-click/id6747453453) 
 
 ## Swift Packages 📦
-**[ControlKit](https://swiftpackageindex.com/superturboryan/ControlKit)** • **[Consolable](https://swiftpackageindex.com/superturboryan/Consolable)** • **[SoundCloud](https://swiftpackageindex.com/superturboryan/SoundCloud-Swift)**
+**[ControlKit](https://swiftpackageindex.com/superturboryan/ControlKit)** • **[Consolable](https://swiftpackageindex.com/superturboryan/Consolable)** • **[DoublePinch](https://github.com/superturboryan/DoublePinch)** • **[SoundCloud](https://swiftpackageindex.com/superturboryan/SoundCloud-Swift)**
 
 ## Presentations &nbsp;🎤
 
