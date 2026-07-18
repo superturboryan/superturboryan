@@ -4,7 +4,7 @@
 
 ### I build native iOS, watchOS, and macOS apps with a focus on Bluetooth, great UX, and Apple's latest frameworks.
 
-Creator of Bike Connect, WatchCloud, LocationLock, and more.
+#### Creator of Bike Connect, WatchCloud, LocationLock, and more.
 
 ## [App Store](https://apps.apple.com/us/developer/ryan-forsyth/id1486027180) &nbsp;📲
 
