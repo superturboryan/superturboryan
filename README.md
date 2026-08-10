@@ -26,9 +26,6 @@
 [**Making Connections: Practical Core Bluetooth**](https://www.youtube.com/watch?v=lslot4B_4y0)  
 iOS Conf SG 2025 🇸🇬
 
-&nbsp;&nbsp;
-### Let's build something together 🤝
- 
 <!-- 👇 DO NOT DELETE 👇 -->
 
 <!--
